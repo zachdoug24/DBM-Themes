@@ -398,7 +398,6 @@ select.round {
 
 .ui.dropdown .menu > .item:hover {
 	color: #7e7e7e;
-	border: 1px solid #222222;
 	border-left: 3px solid #7e7e7e;
 	background: #1a1a1a;
 }
@@ -410,7 +409,6 @@ select.round {
 
 .ui.selection.dropdown:hover {
 	border: 1px solid #222222;
-	border-color: #222222;
 }
 
 .ui.selection.dropdown:hover {
